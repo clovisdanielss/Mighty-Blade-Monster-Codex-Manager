@@ -1,0 +1,1818 @@
+[
+  {
+    "id": "abraco",
+    "nome": "Abraço",
+    "categoria": "técnica",
+    "acao": "reacao",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 158
+    },
+    "descricao": "Ao acertar um alvo com dois ataques corporais no mesmo turno, você pode agarrar aquele alvo automaticamente.",
+    "especial": null
+  },
+  {
+    "id": "acrobata",
+    "nome": "Acrobata",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 158
+    },
+    "descricao": "Você sempre rola +1d6 em seus testes de equilíbrio, salto, piruetas e qualquer outra tentativa de se deslocar que exija coordenação, flexibilidade e precisão. Além disso, você sofre apenas metade dos danos por queda.",
+    "especial": null
+  },
+  {
+    "id": "alicornio",
+    "nome": "Alicórnio",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 158
+    },
+    "descricao": "Você possui um chifre aguçado, com o qual pode desferir ataques. Seu chifre causa dano igual à Força +4/Perfuração. Se usar o chifre em um ataque de Encontrão, o dano do chifre é dobrado (+8 ao invés de +4).",
+    "especial": null
+  },
+  {
+    "id": "anfibio",
+    "nome": "Anfíbio",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 158
+    },
+    "descricao": "Seu organismo é adaptado tanto para ambientes secos quanto subaquáticos. Você consegue respirar e se movimentar tanto sob quanto sobre a água sem penalidades ou risco de afogamento. 158 des que aparecem ao longo deste livro. As Haesmo nome de Habilidades que aparecem em s listados (como Movimentos Evasivos). Sua e descrição), no entanto, serão as mesmas que bilidade neste livro tiver alguma dessas caracmo Brigão e Mordida Poderosa), as descrições como versões atualizadas e terão precedência tiverem Requisitos em suas versões originais, os.",
+    "especial": null
+  },
+  {
+    "id": "aquatico",
+    "nome": "Aquático",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 158
+    },
+    "descricao": "Você é capaz de deslocar-se com perfeição nadando, mas tem dificuldades em se deslocar fora d’água. Você passa automaticamente em todos os testes de natação (ou recebe +2d6 caso precise realizar um teste), mas fora d’água você tem Deslocamento 0 e sufoca – você perde 10 Pontos de Mana por minuto e, se ficar sem Pontos de Mana dessa forma, você morre imediatamente.",
+    "especial": null
+  },
+  {
+    "id": "arboricola",
+    "nome": "Arborícola",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 158
+    },
+    "descricao": "Você passou muitos anos explorando as copas das árvores, e se sente à vontade entre os galhos. Você é automaticamente bem-sucedido em testes para escalar árvores e seu Deslocamento não é reduzido quando estiver se movimentando pelas copas das árvores. Você também recebe um bônus de +2 em todos os seus testes para se mover em silêncio, se esconder e se movimentar enquanto estiver em cima de uma árvore. Apêndice I",
+    "especial": null
+  },
+  {
+    "id": "armadillo",
+    "nome": "Armadillo",
+    "categoria": "característica",
+    "acao": "reacao",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 159
+    },
+    "descricao": "Quando fizer uma ação de movimento, você pode se enrolar deixando apenas seu dorso exposto. Nessa posição você não pode se mover nem realizar ações mas recebe um bônus de Armadura igual à sua Força e é considerado Resistente a todos os tipos de dano exceto Eletricidade. Além disso, você é considerado como sendo de uma categoria de tamanho menor. Você pode utilizar esta Habilidade como parte de uma ação de Encontrão, adicionando seu bônus de Armadura ao dano do encontrão – além do bônus de FN da arma ou armadura que estiver usando.",
+    "especial": "Para se desenrolar você precisa utilizar uma ação de movimento."
+  },
+  {
+    "id": "asas_fracas",
+    "nome": "Asas Fracas",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 159
+    },
+    "descricao": "Você possui asas pequenas ou fracas demais para sustentá-lo no ar, mas que podem ser usadas para impulsionar seus saltos consideravelmente. Você não sofre dano por quedas e soma sua Força à distância de seus saltos. Além disso, quando realizar um salto como parte de uma manobra de Encontrão, some o número de metros do salto no dano e ignore a penalidade de Defesa.",
+    "especial": null
+  },
+  {
+    "id": "asas_leves",
+    "nome": "Asas Leves",
+    "categoria": "não_informada",
+    "acao": "não_informada",
+    "mana": 0,
+    "requisitos": [],
+    "descricao": null,
+    "especial": null,
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 106,
+      "observacao": "A habilidade é citada na ficha, mas sua descrição integral não foi localizada no Apêndice I."
+    }
+  },
+  {
+    "id": "asas_pesadas",
+    "nome": "Asas Pesadas",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 159
+    },
+    "descricao": "Você possui grandes asas com uma envergadura igual à duas vezes a sua altura. Você precisa de uma distância igual à sua envergadura para pegar impulso antes de alçar voo. Quando estiver voando, você não pode parar no ar (mas pode planar) e sua velocidade de voo é o dobro de seu deslocamento normal. O dano de qualquer manobra de Encontrão usada em voo é duplicado (mas o dano da arma que você usar no Encontrão não é alterado, nem quaisquer outros possíveis efeitos do Encontrão).",
+    "especial": null
+  },
+  {
+    "id": "asas_rapidas",
+    "nome": "Asas Rápidas",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 159
+    },
+    "descricao": "Você possui asas pequenas mas extremamente velozes. Sua envergadura é igual à sua altura, e você precisa de um espaço igual à sua envergadura para alçar voo. Como suas asas precisam bater contínua e velozmente, você é capaz de parar no ar mas não consegue planar e não consegue permanecer voando por mais do que uma quantidade de horas igual à sua Força antes de ter que descansar por pelo menos meia hora. Sua velocidade de voo é o dobro de seu deslocamento normal. O dano de qualquer manobra de Encontrão usada em voo é duplicado (mas o dano da arma que você usar no Encontrão não é alterado, nem quaisquer outros possíveis efeitos de Encontrão).",
+    "especial": null
+  },
+  {
+    "id": "atacar_com_a_cauda",
+    "nome": "Atacar com a Cauda",
+    "categoria": "técnica",
+    "acao": "reacao",
+    "mana": 10,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 159
+    },
+    "descricao": "Você possui uma cauda capaz de ser usada em combate. Se algum alvo entrar no seu alcance corporal, você pode realizar um ataque normal (sem habilidades de Ação) contra aquele alvo. Esse é um ataque desarmado que causa dano igual à Força/Contusão. Esta Habilidade só pode ser usada uma vez por rodada.",
+    "especial": null
+  },
+  {
+    "id": "ataque_afiado",
+    "nome": "Ataque Afiado",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 159
+    },
+    "descricao": "Você possui um ataque extremamente afiado, capaz de deixar a vítima vertendo sangue. Este ataque causa dano igual à Força +2/Corte. Além disso, no próximo turno da criatura atingida por esse ataque, ela perde uma quantidade de Pontos de Vida iguais à sua Força. Este é um efeito de Sangramento.",
+    "especial": "Se algum efeito for fazer a vítima recuperar Pontos de Vida, ele remove este efeito de sangramento ao invés disso – e não recupera os Pontos de Vida. 159"
+  },
+  {
+    "id": "ataque_aleijador",
+    "nome": "Ataque Aleijador",
+    "categoria": "técnica",
+    "acao": "acao",
+    "mana": 20,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 160
+    },
+    "descricao": "Você faz um ataque corpo-a-corpo ou à distância, que se bem sucedido, atinge o quadril, joelho ou tornozelo do alvo, comprometendo sua locomoção e deixando um ferimento doloroso. Além de receber o dano normal pelo ataque, o alvo fica com seu Deslocamento reduzido em 1 e sempre que se deslocar ou fizer um teste de Agilidade que envolva as pernas ele perde 10 Pontos de Vida. Esse é um efeito de Sangramento.",
+    "especial": null
+  },
+  {
+    "id": "ataque_esmagador",
+    "nome": "Ataque Esmagador",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 160
+    },
+    "descricao": "Você possui um poderoso ataque capaz de agarrar e apertar alvos com extrema eficiência. Este ataque causa Força +6 de dano e permite que você realize uma ação de Agarrar imediatamente se o ataque atingir o alvo.",
+    "especial": null
+  },
+  {
+    "id": "ataque_preciso",
+    "nome": "Ataque Preciso",
+    "categoria": "técnica",
+    "acao": "acao",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 160
+    },
+    "descricao": "Se você usar uma Ação de Rodada completa mirando em um alvo, você pode rolar +1d6 no seu primeiro ataque corpo-a-corpo contra aquele alvo no seu próximo turno.",
+    "especial": "Mirar mais de um turno não adiciona nenhum benefício extra. 160"
+  },
+  {
+    "id": "ataque_simultaneo",
+    "nome": "Ataque Simultâneo",
+    "categoria": "técnica",
+    "acao": "acao",
+    "mana": 20,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 160
+    },
+    "descricao": "Você está acostumado a lutar em grupo e sabe como abrir a guarda de um adversário para que seus aliados possam atingi-lo. Faça um ataque corporal contra um oponente. Se acertar, todos aliados que estiverem adjacentes ao mesmo oponente poderão fazer um ataque corporal normal contra ele imediatamente.",
+    "especial": null
+  },
+  {
+    "id": "ataque_venenoso",
+    "nome": "Ataque Venenoso",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 160
+    },
+    "descricao": "Você possui glândulas que produzem veneno que pode ser injetado através de um dos seus ataques naturais. Você pode fazer um ataque desarmado que causa dano igual à Força +2/Perfuração. Qualquer alvo que sofra dano deste ataque será injetado com uma dose do Veneno descrito na sua ficha.",
+    "especial": null
+  },
+  {
+    "id": "ataque_do_bufalo",
+    "nome": "Ataque do Búfalo",
+    "categoria": "técnica",
+    "acao": "acao",
+    "mana": 10,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 160
+    },
+    "descricao": "Faça uma manobra de encontrão. Se acertar o ataque, além de causar o dano normal pelo encontrão, o alvo precisa vencer um teste de Força (Dificuldade igual à sua Determinação mais a FN da arma que estiver usando) ou será derrubado. Alvos com o dobro do seu peso não são afetados.",
+    "especial": null
+  },
+  {
+    "id": "atletismo",
+    "nome": "Atletismo",
+    "categoria": "técnica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 160
+    },
+    "descricao": "Você treinou exercícios físicos durante muito tempo – seja por vontade própria ou por necessidade – e é muito bom nisso. Você recebe +2 em testes para correr, escalar, nadar, se equilibrar, prender o fôlego ou qualquer outra atividade que exija força física e coordenação motora. Esse bônus também se aplica em testes para evitar ser derrubado.",
+    "especial": null
+  },
+  {
+    "id": "atropelar",
+    "nome": "Atropelar",
+    "categoria": "técnica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 160
+    },
+    "descricao": "Quando usar Ataque do Búfalo, se o alvo for derrubado ele sofre um dano adicional igual a 6/Contusão para cada 100 quilos de peso que você tiver. Apêndice I",
+    "especial": null
+  },
+  {
+    "id": "bico",
+    "nome": "Bico",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 161
+    },
+    "descricao": "Sua boca é protegida por uma resistente – e afiada! – protusão de osso e queratina. Você pode realizar ataques desarmados com sua boca, causando dano igual à Força +2/Corte e +2 no seu teste de ataque.",
+    "especial": null
+  },
+  {
+    "id": "brigao",
+    "nome": "Brigão",
+    "categoria": "técnica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 161
+    },
+    "descricao": "Você está acostumado a combater desarmado. Você rola +1 em seus ataques desarmados e adiciona +2 os danos desses ataques.",
+    "especial": "Quando estiver realizando apenas ataques desarmados, você pode realizar 2 ataques sem incorrer nas regras de Inaptidão."
+  },
+  {
+    "id": "caleidoscopico",
+    "nome": "Caleidoscópico",
+    "categoria": "característica",
+    "acao": "acao",
+    "mana": 10,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 161
+    },
+    "descricao": "Você cria um padrão de cores vibrantes e ondulantes capaz de deixar seus alvos mesmerizados. Qualquer criatura viva a uma distância de você igual à sua Determinação em metros que possa lhe ver precisa fazer um teste de Inteligência (Dificuldade igual à sua Determinação). Criaturas que passem no teste perdem sua próxima ação de movimento, enquanto criaturas que falhem no teste ficam Distraídas por 1 turno.",
+    "especial": "Se você estiver segurando ou sendo segurado por uma criatura, o teste para resistir a esse efeito é executado como se o alvo fosse Inapto."
+  },
+  {
+    "id": "camaleao",
+    "nome": "Camaleão",
+    "categoria": "característica",
+    "acao": "acao",
+    "mana": 10,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 161
+    },
+    "descricao": "Sua pele muda de cor para imitar o ambiente à sua volta. Você recebe +2 em testes de esconder-se enquanto se mover lentamente (1 metro por turno no máximo) e se permanecer perfeitamente imóvel você é considerado Invisível. Este efeito dura uma quantidade de Horas igual à sua Vontade, mas você pode cancelar seus efeitos a qualquer momento como uma ação livre.",
+    "especial": "Esta Habilidade não tem efeito a menos que a maioria da sua pele esteja exposta."
+  },
+  {
+    "id": "cavar",
+    "nome": "Cavar",
+    "categoria": "não_informada",
+    "acao": "não_informada",
+    "mana": 0,
+    "requisitos": [],
+    "descricao": null,
+    "especial": null,
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 93,
+      "observacao": "A habilidade é citada na ficha, mas sua descrição integral não foi localizada no Apêndice I."
+    }
+  },
+  {
+    "id": "chifres_poderosos",
+    "nome": "Chifres Poderosos",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 161
+    },
+    "descricao": "Você pode desferir uma marrada poderosa com seus chifres, causando dano igual à Força +4/Contusão. Qualquer alvo atingido por um ataque feito com seus chifres precisa vencer um confronto de Força contra você ou será derrubado. Se o alvo for derrubado, ele ficará Atordoado por 1 turno.",
+    "especial": null
+  },
+  {
+    "id": "chuva_de_espinhos",
+    "nome": "Chuva de Espinhos",
+    "categoria": "característica",
+    "acao": "acao",
+    "mana": 20,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 161
+    },
+    "descricao": "Você consegue disparar seus espinhos atingindo tudo e todos a até 10 metros ao seu redor, causando um dano igual à sua Força +2/Perfuração. Alternativamente, você pode realizar um ataque mais preciso, contra uma única criatura a até 10 metros de distância, causando dano igual à sua Força +10/Perfuração em um único alvo.",
+    "especial": null
+  },
+  {
+    "id": "combate_gigante",
+    "nome": "Combate Gigante",
+    "categoria": "geral",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 161
+    },
+    "descricao": "Qualquer criatura que seja mais leve que você e for atingida por um ataque seu que cause dano por Contusão deve fazer um teste de Força (Dificuldade igual à sua Força) ou será derrubada. 161",
+    "especial": null
+  },
+  {
+    "id": "combate_em_grupo",
+    "nome": "Combate em Grupo",
+    "categoria": "técnica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 161
+    },
+    "descricao": "Você ganha +1 nos testes de ataques corporais para cada aliado que esteja em combate corporal com o alvo.",
+    "especial": null
+  },
+  {
+    "id": "constritor",
+    "nome": "Constritor",
+    "categoria": "técnica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 162
+    },
+    "descricao": "Você é muito eficiente em apertar seus oponentes em combate. Você recebe +2 em testes de agarrar e pode imediatamente realizar um teste de apertar depois de agarrar um alvo. Além disso, seu dano de apertar é aumentado em +2.",
+    "especial": null
+  },
+  {
+    "id": "consumir_mana",
+    "nome": "Consumir Mana",
+    "categoria": "geral",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 162
+    },
+    "descricao": "Você é capaz de absorver a energia mágica do ambiente, criando uma área esférica de magia morta (veja Guia de Tebryn, página 110 para detalhes) cujo raio é igual à sua Força em metros. Além disso, quando causar dano com um ataque desarmado contra um alvo, além do dano normal, você faz com que o alvo perca uma quantidade de Pontos de Mana iguais ao dano causado – e você recupera a mesma quantidade de Pontos de Mana que o alvo perder.",
+    "especial": null
+  },
+  {
+    "id": "contato_com_espiritos",
+    "nome": "Contato com Espíritos",
+    "categoria": "característica",
+    "acao": "acao",
+    "mana": 5,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 162
+    },
+    "descricao": "Você pode se comunicar com os espíritos que estejam próximos. Você é capaz de ouvir e ver qualquer espírito num raio de 20 metros. Esse efeito dura 10 minutos. Você pode gastar 10 Pontos de Mana enquanto estiver sob o efeito dessa Habilidade para ser capaz de tocar espíritos por 1 minuto.",
+    "especial": null
+  },
+  {
+    "id": "corcova",
+    "nome": "Corcova",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 162
+    },
+    "descricao": "Você é capaz de acumular água e energia – na forma de gordura – em seu organismo. Você pode ficar um número de dias igual à sua Força sem comer antes de começar a sofrer efeitos de desnutrição. Além disso, você pode ficar sem beber por um número de dias igual à 3 vezes sua Força antes de sentir efeitos de desidratação.",
+    "especial": "Você precisa ter comido e bebido em abundância para que esta Habilidade tenha efeito. 162"
+  },
+  {
+    "id": "couro_grosso",
+    "nome": "Couro Grosso",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 162
+    },
+    "descricao": "Você possui um couro particularmente grosso e duro, difícil de romper. Você reduz todo o dano que sofrer em 2, independente da fonte.",
+    "especial": "Essa Redução de Dano não pode ser ignorada por Falhas da Armadura."
+  },
+  {
+    "id": "dancarino_do_ar",
+    "nome": "Dançarino do Ar",
+    "categoria": "técnica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 162
+    },
+    "descricao": "Você praticou voo com um entusiasmo incomum e aperfeiçoou enormemente suas perícias aéreas. Enquanto estiver voando, você recebe um bônus de +2 em testes de acrobacia, tentativas de realizar um encontrão, testes de movimento e qualquer outra manobra aérea. Este bônus também se estende a sua Defesa (este é considerado um bônus de Esquiva).",
+    "especial": null
+  },
+  {
+    "id": "dilacerar",
+    "nome": "Dilacerar",
+    "categoria": "técnica",
+    "acao": "reacao",
+    "mana": 5,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 162
+    },
+    "descricao": "Quando você é atacado, responde de modo extremamente agressivo! Da primeira vez em que for atingido com um ataque corporal durante um combate e sempre que um atacante o agarrar, você pode imediatamente usar todos os seus possíveis ataques corporais – em geral 1 ataque com cada perna/braço/cauda (garras/cascos/ pancadas) e um ataque com a cabeça (mordida, marrada/cabeçada) contra a criatura que o estiver atacando/agarrando.",
+    "especial": null
+  },
+  {
+    "id": "discernimento_limitado",
+    "nome": "Discernimento Limitado",
+    "categoria": "geral",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 162
+    },
+    "descricao": "Apesar de você ser irracional, você pode aprender a se comunicar de forma restrita em um único idioma. Você só compreende e só consegue expressar conceitos simples e limitados à sua natureza.",
+    "especial": "Quando selecionar esta Habilidade, selecione um idioma. Esta decisão não pode ser alterada mais tarde. Apêndice I"
+  },
+  {
+    "id": "drenar_magia",
+    "nome": "Drenar Magia",
+    "categoria": "não_informada",
+    "acao": "não_informada",
+    "mana": 0,
+    "requisitos": [],
+    "descricao": null,
+    "especial": null,
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 68,
+      "observacao": "A habilidade é citada na ficha, mas sua descrição integral não foi localizada no Apêndice I."
+    }
+  },
+  {
+    "id": "ecolocalizacao",
+    "nome": "Ecolocalização",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 163
+    },
+    "descricao": "Você é capaz de detectar objetos e animais por meio de ecos de sons que você produz. Você pode identificar o tamanho, formato e velocidade aproximada de criaturas e objetos num raio igual à 5 vezes sua Inteligência em metros, mas quando estiver se guiando apenas por sonar você não é capaz de distinguir detalhes específicos (como cores, inscrições ou fisionomias), além disso objetos translúcidos ou transparentes são completamente opacos ao sonar. Você só é considerado cego se, além da sua visão, sua audição ou capacidade de fala também for anulada de alguma forma.",
+    "especial": "Embaixo d’água o alcance de seu sonar é de 10 vezes a Inteligência em metros."
+  },
+  {
+    "id": "enterrar_se",
+    "nome": "Enterrar-se",
+    "categoria": "técnica",
+    "acao": "acao",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 163
+    },
+    "descricao": "Como uma ação de rodada completa, você pode se enterrar no solo, cobrindo seu corpo com o sedimento ao seu redor, até ficar com apenas o topo da cabeça de fora. O sedimento é solto o suficiente para permitir que você saia do buraco que escavou como uma ação livre, e enquanto se mantiver enterrado dessa forma, você recebe um bônus de +1d6 em seus testes de Camuflar-se.",
+    "especial": null
+  },
+  {
+    "id": "escalador_perfeito",
+    "nome": "Escalador Perfeito",
+    "categoria": "técnica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 163
+    },
+    "descricao": "Você é capaz de escalar com total controle em qualquer direção e sobre qualquer superfície! Você consegue escalar qualquer tipo de material ou superfície (incluindo tetos) com seu Deslocamento normal (incluindo corrida), automaticamente. Em qualquer ocasião em que precise fazer um teste de Escalar, você recebe +2d6 no teste.",
+    "especial": null
+  },
+  {
+    "id": "escamas_grossas",
+    "nome": "Escamas Grossas",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 164
+    },
+    "descricao": "Suas escamas são particularmente resistentes e fortes. Você tem Defesa +2 e você reduz todo o dano que sofrer em 2, independente da fonte (esses bônus de Defesa e Redução de Dano contam como Armadura).",
+    "especial": null
+  },
+  {
+    "id": "escavador",
+    "nome": "Escavador",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 163
+    },
+    "descricao": "Você pode se mover sob o solo à metade da sua velocidade normal, cavando e deixando um túnel atrás de si. Você pode cavar através de pedra ou rocha sólida, mas sua velocidade nesse caso será sempre um oitavo de sua velocidade normal. Você pode cavar em terrenos instáveis – areia, pedregulhos ou outros tipos de solo soltos – mas nesse caso você não produz túneis – eles entram em colapso atrás de você. A profundidade máxima que você pode cavar, é igual a duas vezes a sua altura, e seus túneis terão sempre as dimensões do seu corpo – apesar de você poder cavar túneis adjacentes uns aos outros, para criar galerias maiores. Qualquer tentativa de rastreá-lo enquanto você cava tem a dificuldade aumentada em +4, mas se o personagem que o está rastreando encontrar um túnel que você cavou, ele recebe 1d6 extra em suas tentativas de rastrear.",
+    "especial": "Se você cavar seus túneis sob uma construção (casa, muro ou castelo, por exemplo) existe uma chance (11 ou 12 em 2d6) que aquela parte sob a qual você cavou entre em colapso, destruindo o seu túnel e desmoronando no processo."
+  },
+  {
+    "id": "escavar",
+    "nome": "Escavar",
+    "categoria": "não_informada",
+    "acao": "não_informada",
+    "mana": 0,
+    "requisitos": [],
+    "descricao": null,
+    "especial": null,
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 118,
+      "observacao": "A habilidade é citada na ficha, mas sua descrição integral não foi localizada no Apêndice I."
+    }
+  },
+  {
+    "id": "esguicho_de_acido",
+    "nome": "Esguicho de Ácido",
+    "categoria": "característica",
+    "acao": "acao",
+    "mana": 15,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 163
+    },
+    "descricao": "Você é capaz de disparar uma rajada de ácido em qualquer alvo a até uma quantidade de metros igual à sua Determinação. Esse ácido faz com que o alvo perca 10 Pontos de Vida, mas a vítima tem o direito de fazer um teste de Agilidade (Dificuldade igual à sua Determinação) para sofrer apenas metade dessa perda de vida. Um alvo que não tenha conseguido esquivar perde 5 Pontos de Vida adicionais no próximo turno e fica Atordoado por 2 turnos devido à dor e aos vapores ácidos. 163",
+    "especial": null
+  },
+  {
+    "id": "espinhos_defensivos",
+    "nome": "Espinhos Defensivos",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 164
+    },
+    "descricao": "Você possui esporões ósseos, quitinosos ou capilares que oferecem uma excelente proteção contra atacantes. Você tem Defesa +2 (este é um bônus de Armadura) e, sempre que uma criatura de tamanho maior do que você o atingir com um ataque desarmado (incluindo agarrões), ela sofre dano por perfuração dependendo do seu tamanho: 6 de dano se você for de tamanho miúdo, 8 de dano se você for pequeno, 12 de dano se você for Médio, 20 de dano se você for Grande ou Colossal.",
+    "especial": "Se você for agarrado ou escalado por alguma criatura e for bem sucedido no confronto para se desvencilhar da criatura, ela sofre o dano desta Habilidade."
+  },
+  {
+    "id": "esporoes",
+    "nome": "Esporões",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 164
+    },
+    "descricao": "Você possui esporões ósseos/quitinosos que podem ser usados como armas naturais. Os esporões causam dano igual à Força +3/Perfuração.",
+    "especial": null
+  },
+  {
+    "id": "estalo_cinetico",
+    "nome": "Estalo Cinético",
+    "categoria": "geral",
+    "acao": "acao",
+    "mana": 20,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 164
+    },
+    "descricao": "Você fecha velozmente sua garra, produzindo uma potente explosão de som que faz com que o alvo sofra uma quantidade de dano igual à sua Determinação/Contusão e seja projetado em linha reta um número de metros igual à sua Vontade. Se o alvo atingir uma superfície sólida ou 164 outra criatura no trajeto que foi projetado, ele (e qualquer criatura que atinja no trajeto) sofre dano como se tivesse caído aquela distância. O alvo empurra tudo o que atingir no trajeto, que só será interrompido se o alvo atingir um objeto que não possa ser empurrado – como uma parede ou árvore. Além disso, no final do trajeto em que foi projetado, o alvo (e qualquer criatura que ele tenha atingido no trajeto) precisa vencer um teste de Agilidade (Dificuldade igual à sua Força) ou cairá.",
+    "especial": "Criaturas com as Habilidades Combate Gigante ou Colosso não são projetadas – mas precisam fazer o teste para verificar se irão cair."
+  },
+  {
+    "id": "estracalhar",
+    "nome": "Estraçalhar",
+    "categoria": "técnica",
+    "acao": "acao",
+    "mana": 35,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 164
+    },
+    "descricao": "Você salta sobre um alvo atacando com tudo o que tem! Faça um Encontrão realizando todos os seus possíveis ataques corporais (em geral dois socos/garradas/ataques com armas, dois chutes/ataques com cascos e uma cabeçada/mordida/ marrada).",
+    "especial": null
+  },
+  {
+    "id": "evasao",
+    "nome": "Evasão",
+    "categoria": "técnica",
+    "acao": "reacao",
+    "mana": 20,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 164
+    },
+    "descricao": "Se o seu inimigo fizer um ataque corporal e acertar, você pode declarar evasão, e obrigar o inimigo a rolar novamente o teste de ataque. Você pode escolher com qual dos resultados o oponente vai ficar. Esta Habilidade só pode ser usada uma vez por rodada.",
+    "especial": null
+  },
+  {
+    "id": "falhas_da_armadura",
+    "nome": "Falhas da Armadura",
+    "categoria": "técnica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 165
+    },
+    "descricao": "Você sabe como acertar ataques entre as frestas e falhas das armaduras do inimigo. Ignore sempre o bônus de Armadura da Defesa do oponente – e quaisquer Redução de Dano que a armadura fornecer.",
+    "especial": null
+  },
+  {
+    "id": "faro",
+    "nome": "Faro",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 165
+    },
+    "descricao": "Você possui um faro extremamente aguçado. Você rola +1d6 quando puder fazer testes que envolvam o faro, e pode perceber, detectar, rastrear e identificar pessoas e locais através dele. O Mestre pode realizar testes para ver se você consegue farejar mesmo quando você não estiver ativamente procurando odores específicos.",
+    "especial": "Debaixo d’água, se você puder respirar nela, esta Habilidade permite perceber a localização aproximada de criaturas em um raio em metros igual à sua Determinação – ou uma distância em quilômetros igual à sua Inteligência, caso o alvo esteja sob algum efeito de sangramento."
+  },
+  {
+    "id": "faca_os_sangrar",
+    "nome": "Faça-os Sangrar",
+    "categoria": "técnica",
+    "acao": "reacao",
+    "mana": 10,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 164
+    },
+    "descricao": "Você gosta de ver seus alvos sangrando. Sempre que fizer um ataque corporal contra um alvo, se o seu ataque Apêndice I incluir um efeito de sangramento ou se o alvo estiver sob um efeito de sangramento, você pode rolar +1d6 – estes efeitos não são cumulativos.",
+    "especial": null
+  },
+  {
+    "id": "flanquear",
+    "nome": "Flanquear",
+    "categoria": "técnica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 165
+    },
+    "descricao": "Você prefere atacar seus alvos quando eles estão desatentos – e é muito eficiente fazendo isso! Sempre que você e pelo menos mais um aliado estiverem em alcance corporal de um oponente, você considera aquele oponente Despreparado em relação a você (ver Condições, pág. 169). Você só pode flanquear um alvo por turno. Se 2 ou mais adversários estiverem adjacentes a você e a um aliado ao mesmo tempo, você deve definir qual deles vai flanquear.",
+    "especial": null
+  },
+  {
+    "id": "flexivel",
+    "nome": "Flexível",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 165
+    },
+    "descricao": "Você tem o corpo muito flexível, capaz de se dobrar, esticar e espremer de maneiras extremas. Você pode passar por aberturas como se tivesse apenas metade do seu tamanho, consegue escorregar para fora de grilhões e amarras com facilidade, pode se esticar e dobrar de modo a alcançar pontos de apoio difíceis numa escalada além de ser mais ágil quando corre e escapa de obstáculos, recebendo um bônus de +2 em testes de correr, escalar, se equilibrar e escapar de amarras e de tentativas de agarrões.",
+    "especial": "Usar armaduras com a característica Pesada impede que você receba os benefícios dessa Habilidade."
+  },
+  {
+    "id": "furtividade",
+    "nome": "Furtividade",
+    "categoria": "não_informada",
+    "acao": "não_informada",
+    "mana": 0,
+    "requisitos": [],
+    "descricao": null,
+    "especial": null,
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 103,
+      "observacao": "A habilidade é citada na ficha, mas sua descrição integral não foi localizada no Apêndice I."
+    }
+  },
+  {
+    "id": "furtivo",
+    "nome": "Furtivo",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 166
+    },
+    "descricao": "Você é particularmente discreto quando quer. Você pode rolar +1d6 quando fizer testes para se mover em silêncio, se esconder, camuflar, ou usar disfarces.",
+    "especial": null
+  },
+  {
+    "id": "furia_irrefreavel",
+    "nome": "Fúria Irrefreável",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 165
+    },
+    "descricao": "Quando você está em fúria, não há como pará-lo! O bônus de Força de qualquer Habilidade de Fúria que você utilizar aumenta em +2 e enquanto você estiver sob um efeito de Fúria você fica imune a efeitos Mentais.",
+    "especial": null
+  },
+  {
+    "id": "furia_mortal",
+    "nome": "Fúria Mortal",
+    "categoria": "característica",
+    "acao": "reacao",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 165
+    },
+    "descricao": "Enquanto estiver sob um efeito de Fúria, sempre que você ficar sem Pontos de Vida, você pode, imediatamente, realizar um ataque corporal. O teste para este ataque recebe um bônus de +1d6. 165",
+    "especial": null
+  },
+  {
+    "id": "furia_de_batalha",
+    "nome": "Fúria de Batalha",
+    "categoria": "técnica",
+    "acao": "reacao",
+    "mana": 30,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 165
+    },
+    "descricao": "Quando você é ferido você é tomado por uma irrefreável fúria destrutiva, ficando neste estado até o final do combate – ou até ficar dois turnos sem atacar. Você precisa sofrer pelo menos 1 ponto de dano de qualquer fonte – inclusive auto-infligido – para que essa Habilidade possa ser ativada. Enquanto estiver em Fúria, você recebe Força +2 e fica imune a efeitos de Medo.",
+    "especial": null
+  },
+  {
+    "id": "garras",
+    "nome": "Garras",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 166
+    },
+    "descricao": "Você treinou o uso de suas garras como ferramentas e armas. Você pode realizar ataques desarmados com suas garras, causando dano igual à Força+2/Perfuração. Suas garras também podem ser utilizadas para cortar cordas, panos e outros materiais com pouca dureza, e você recebe um bônus de +2 em seus testes de escalar, agarrar e segurar.",
+    "especial": null
+  },
+  {
+    "id": "glutao",
+    "nome": "Glutão",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 166
+    },
+    "descricao": "Você possui uma curiosidade insaciável por comida, e já comeu um pouco de tudo – incluindo algumas coisas que não seriam consideradas comida. Você é imune a todos os venenos naturais ou mágicos que tenham que ser ingeridos para funcionar, todas as doenças naturais ou mágicas derivadas de alimentos e infecções de qualquer espécie. Além disso, você pode identificar comida estragada ou envenenada e efeitos de poções com apenas uma pequena amostra.",
+    "especial": null
+  },
+  {
+    "id": "golpe_devastador_1",
+    "nome": "Golpe Devastador 1",
+    "categoria": "técnica",
+    "acao": "acao",
+    "mana": 30,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 166
+    },
+    "descricao": "Você pode fazer um ataque corporal que causa o dobro de dano, e se acertar, o alvo precisa vencer um confronto de Força (adicione a FN da arma que estiver usando no seu teste) contra você ou ficará Paralisado por um turno.",
+    "especial": null
+  },
+  {
+    "id": "hematofago",
+    "nome": "Hematófago",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 166
+    },
+    "descricao": "Você se alimenta de sangue e possui várias características que o aju- 166 dam a identificar e atacar suas presas. Você consegue detectar criaturas de sangue quente dentro de um alcance em metros igual à sua Determinação, e contra essas criaturas você tem um bônus de +2 em todos os seus ataques. Além disso, sua saliva possui substâncias anticoagulantes e anestésicas, e criaturas adormecidas não são despertadas quando você as morde. Finalmente, quando morde uma criatura, você recupera uma quantidade de Pontos de Mana igual ao dano que causar – se seus Pontos de Mana estiverem no máximo, você passa a recuperar Pontos de Vida ao invés disso, numa quantidade igual à metade do dano de sua mordida (arredondado para cima).",
+    "especial": null
+  },
+  {
+    "id": "icneumone",
+    "nome": "Icnêumone",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 166
+    },
+    "descricao": "Você é imune a efeitos de petrificação de qualquer espécie e todos os efeitos de gases (incluindo fumaça, vapores, neblina e venenos inalados).",
+    "especial": null
+  },
+  {
+    "id": "iluminar",
+    "nome": "Iluminar",
+    "categoria": "característica",
+    "acao": "acao",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 166
+    },
+    "descricao": "Mana: Varia Descrição: Como uma ação livre, você é capaz de produzir uma luminosidade que pode variar de intensidade desde um brilho fraco como o de uma vela (nenhum custo em Pontos de Mana) até o de uma tocha (5 Pontos de Mana). Esse brilho pode ser constante ou pode ser reduzido em intensidade à vontade, podendo criar padrões luminosos. Essa luminosidade pode durar um número de turnos iguais à sua Determinação em minutos.",
+    "especial": null
+  },
+  {
+    "id": "imobilizar",
+    "nome": "Imobilizar",
+    "categoria": "técnica",
+    "acao": "reacao",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 166
+    },
+    "descricao": "Se você for bem-sucedido em um ataque desarmado contra um alvo, além do dano normal do ataque você pode imediatamente realizar um teste para tentar Agarrar o alvo. Apêndice I",
+    "especial": null
+  },
+  {
+    "id": "imunidade_a_venenos",
+    "nome": "Imunidade a Venenos",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 167
+    },
+    "descricao": "Você é extremamente resistente a todos os tipos de venenos. Você é imune a venenos naturais e mágicos.",
+    "especial": null
+  },
+  {
+    "id": "imunidade_ao_fogo",
+    "nome": "Imunidade ao Fogo",
+    "categoria": "geral",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 167
+    },
+    "descricao": "Você recebe a Condição Imunidade ao Fogo (Guia Básico pág. 173).",
+    "especial": null
+  },
+  {
+    "id": "imunidade_a_doencas",
+    "nome": "Imunidade à Doenças",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 167
+    },
+    "descricao": "Você é extremamente resistente a todos os tipos de doenças. Você é imune a doenças naturais e mágicas, e recebe +1d6 em suas tentativas de resistir aos efeitos de venenos naturais.",
+    "especial": null
+  },
+  {
+    "id": "investida_mortal",
+    "nome": "Investida Mortal",
+    "categoria": "técnica",
+    "acao": "acao",
+    "mana": 10,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 167
+    },
+    "descricao": "Faça uma manobra de encontrão contra um alvo. Esse ataque causa +10 de dano, e se acertar deixa o alvo Atordoado (O personagem tem -1 na Defesa, no Deslocamento e em todos os seus testes) por 1 turno.",
+    "especial": null
+  },
+  {
+    "id": "jato_de_tinta",
+    "nome": "Jato de Tinta",
+    "categoria": "característica",
+    "acao": "reacao",
+    "mana": 10,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 167
+    },
+    "descricao": "Você é capaz de expelir um jorro de tinta escura e pegajosa, capaz de cegar e desorientar temporariamente seus alvos. Quando utilizar uma ação de movimento para se deslocar (ou tentar se deslocar), você pode disparar um jorro de tinta contra um alvo, com um confronto de Agilidade. Se você vencer, o alvo estará cego por 1 rodada e distraído por 1 rodada depois disso.",
+    "especial": "Se estiver sob a água, a tinta se dispersa numa nuvem que cobre uma área com diâmetro igual à sua Força em metros. Todos os alvos dentro área ficam cegos, e ficam distraídos por 1 turno depois de saírem da área. A nuvem se dissipa em 3 turnos – ou 1 turno em água com correnteza forte."
+  },
+  {
+    "id": "manter_no_chao",
+    "nome": "Manter no Chão",
+    "categoria": "técnica",
+    "acao": "reacao",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 167
+    },
+    "descricao": "Se um oponente tentar se levantar dentro do alcance dos seus ataques corporais, faça um ataque corporal contra ele imediatamente. Se acertar o ataque e o dano for por Contusão, o alvo precisa vencer um Confronto de Vontade contra você ou ficará Caído. Você só pode usar esta habilidade uma vez por rodada.",
+    "especial": null
+  },
+  {
+    "id": "marfim",
+    "nome": "Marfim",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 167
+    },
+    "descricao": "Você possui um par (ou mais de um par) de presas extremamente agudas que permitem que seus ataques com suas presas causem dano por Perfuração ao invés de Corte ou Contusão (dependendo do tipo de dano normal do ataque) à sua escolha, além de causarem +3 de dano.",
+    "especial": null
+  },
+  {
+    "id": "marrada",
+    "nome": "Marrada",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 167
+    },
+    "descricao": "Você pode desferir um poderoso golpe com seus chifres. Este é um ataque desarmado que causa dano igual à Força +2/Contusão. Caso use esse ataque com uma ação de Encontrão, o alvo precisa vencer um teste de Força (Dificuldade igual à sua Determinação +2) ou será derrubado.",
+    "especial": null
+  },
+  {
+    "id": "membrana_nictitante",
+    "nome": "Membrana Nictitante",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 167
+    },
+    "descricao": "Seus olhos possuem uma segunda pálpebra que serve para manter seus olhos limpos e ampliar a visão. Você consegue enxergar normalmente no escuro e não é afetado por efeitos não-mágicos que restrinjam a visão – como água lamacenta, fumaça, poeira, areia, chuva, etc. – e você também recebe +2 em todos os seus testes de Percepção que envolvam a visão.",
+    "especial": "Você só pode selecionar essa Habilidade durante a criação do personagem. 167"
+  },
+  {
+    "id": "mente_vazia",
+    "nome": "Mente Vazia",
+    "categoria": "geral",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 168
+    },
+    "descricao": "Você é imune a efeitos mentais, sempre vence qualquer teste de Vontade, realiza todos os testes de Inteligência como se fosse Inapto e não é capaz de raciocinar.",
+    "especial": null
+  },
+  {
+    "id": "mimetismo",
+    "nome": "Mimetismo",
+    "categoria": "característica",
+    "acao": "acao",
+    "mana": 20,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 168
+    },
+    "descricao": "Você é capaz de assumir a forma, cor e textura de um objeto que seja capaz de ver e que seja do mesmo tamanho que você ou até 1 categoria de tamanho menor. Enquanto você permanecer imóvel, você será indistinguível de um objeto comum. Você pode manter essa forma por uma quantidade de horas igual à sua Força, mas pode voltar à sua forma normal a qualquer momento, como uma ação livre.",
+    "especial": "Se estiver usando ou segurando itens ou equipamentos, o Mestre deve definir se a forma assumida pode manter os itens ou se você terá que largá-los – talvez se transformando sobre eles ou, dependendo da forma que assumir, se transformando ao redor deles para escondê-los."
+  },
+  {
+    "id": "miriapode",
+    "nome": "Miriápode",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 168
+    },
+    "descricao": "Você possui seis ou mais membros locomotores. Você não pode ser derrubado, arrastado ou ter a sua movimentação negada por qualquer criatura com menos do que o dobro do seu peso. Efeitos mágicos que o derrubem, arrastem ou neguem sua movimentação funcionam normalmente. Além disso, você é capaz de escalar qualquer superfície (incluindo tetos) com a sua velocidade normal. Finalmente, se você for derrubado de alguma forma, você pode se levantar como uma ação livre durante o seu turno. 168",
+    "especial": null
+  },
+  {
+    "id": "montaria",
+    "nome": "Montaria",
+    "categoria": "geral",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 168
+    },
+    "descricao": "Você pode carregar uma grande quantidade de carga em seu lombo, incluindo ginetes. Até você atingir capacidade de carga máxima, você não sofre nenhum modificador por carga, sendo considerado sempre com carga nenhuma.",
+    "especial": "Apenas criaturas de tamanho igual ou menor do que o seu podem ser carregados como ginetes de maneira adequada."
+  },
+  {
+    "id": "mordida_congelante",
+    "nome": "Mordida Congelante",
+    "categoria": "geral",
+    "acao": "reacao",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 168
+    },
+    "descricao": "Ao morder uma criatura, além do dano da mordida, você pode automaticamente Agarrar o alvo. Além dos efeitos normais de Agarrar, o alvo fica Enregelado enquanto você o estiver Agarrando ou Apertando dessa forma.",
+    "especial": "Por estar Agarrando uma criatura com sua boca, você pode utilizar seus braços livremente enquanto estiver Agarrando ou Apertando o alvo. Este é um efeito de Sangramento."
+  },
+  {
+    "id": "mordida_poderosa",
+    "nome": "Mordida Poderosa",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 168
+    },
+    "descricao": "Você pode usar seus dentes para fazer um ataque desarmado. O dano da sua mordida é igual a Força +4/Corte.",
+    "especial": null
+  },
+  {
+    "id": "movimentos_evasivos",
+    "nome": "Movimentos Evasivos",
+    "categoria": "geral",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 168
+    },
+    "descricao": "Você ganha +1 na sua Defesa para cada 2 pontos que tiver em Agilidade. Esta habilidade só funciona se você estiver sem armadura. Esse é um bônus de Esquiva.",
+    "especial": null
+  },
+  {
+    "id": "multiplos_ataques",
+    "nome": "Múltiplos Ataques",
+    "categoria": "técnica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 168
+    },
+    "descricao": "Você possui uma parte do seu corpo que pode atacar múltiplas vezes ao mesmo tempo – mais de uma cabeça ou cauda, vários braços ou pernas, grande número Apêndice I de tentáculos, etc. Você pode fazer 1 ataque com cada uma dessas partes no mesmo turno, independentemente. No entanto, se fizer mais do que um ataque dessa forma em um turno, não poderá realizar outras formas de ataques – nem lançar magias ou realizar músicas.",
+    "especial": "Se você utilizar uma Habilidade de Ação, seus efeitos se aplicam a apenas um dos seus ataques – mas você ainda pode fazer um ataque normal com as outras partes do seu corpo no mesmo turno, antes ou depois de utilizar a Habilidade de Ação."
+  },
+  {
+    "id": "nadar",
+    "nome": "Nadar",
+    "categoria": "técnica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 169
+    },
+    "descricao": "Você rola +1d6 ao fazer testes de Força ou Agilidade referentes à natação.",
+    "especial": null
+  },
+  {
+    "id": "nascido_nas_montanhas",
+    "nome": "Nascido nas Montanhas",
+    "categoria": "geral",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 169
+    },
+    "descricao": "Você nasceu ou passou grande parte da sua vida em ambientes montanhosos. Você recebe +2 em seus testes ligados à locais rochosos e montanhosos – como escalar rocha (nua ou trabalhada), percepção e sobrevivência em áreas montanhosas, identificar animais dessas regiões, avaliar formações rochosas e pedras brutas ou trabalhadas (incluindo construções de pedra e pedras preciosas) e para trabalhar em pedra – seja artesanato, alvenaria ou joalheria.",
+    "especial": null
+  },
+  {
+    "id": "nomade_do_deserto",
+    "nome": "Nômade do Deserto",
+    "categoria": "geral",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 169
+    },
+    "descricao": "Você está acostumado a ambientes desérticos e aprendeu a viver nesses locais. Você recebe um bônus de +1 em todos os seus testes quando está em um ambiente de deserto ou savana. Além disso, você pode passar uma quantidade de dias iguais à sua Força sem precisar ingerir água antes de ficar Desidratado e não é afetado por climas particularmente quentes ou áridos.",
+    "especial": null
+  },
+  {
+    "id": "olhos_de_aguia",
+    "nome": "Olhos de Águia",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 169
+    },
+    "descricao": "Você possui olhos naturalmente potentes, com capacidades de percepção únicas. Você pode rolar +1d6 quando fizer testes que envolvam a visão, e consegue distinguir detalhes a uma distância em quilômetros igual à sua Inteligência. Você também consegue ver pobremente na escuridão, sendo capaz de distinguir vultos e formas, mas não detalhes específicos (como cores, inscrições ou fisionomias).",
+    "especial": null
+  },
+  {
+    "id": "paquiderme",
+    "nome": "Paquiderme",
+    "categoria": "geral",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 169
+    },
+    "descricao": "Você possui um corpanzil pesado protegido por um couro ou pelagem grossa e suportado por pernas fortes e sólidas e patas largas. Sua carga é calculada como se você tivesse três vezes a sua Força normal e você pode rolar +1d6 quando fizer testes para evitar ser derrubado e empurrado/puxado e em testes para puxar/empurrar. No entanto, você não é capaz de saltar. Além disso, você reduz todo o dano que sofrer em 2, independente da fonte.",
+    "especial": null
+  },
+  {
+    "id": "patas_fortes",
+    "nome": "Patas Fortes",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 169
+    },
+    "descricao": "Você possui pernas mais fortes do que a maioria dos membros da sua raça. Você pode rolar +2 quando fizer testes de corrida, salto, evitar quedas, etc. e sua distância de saltos é calculada usando sua Força ou Agilidade (o que for maior) e é aumentado em 1 metro além disso. Finalmente, o dano dos seus ataques usando as patas (ou pernas se você for bípede) é aumentado em +2. 169",
+    "especial": null
+  },
+  {
+    "id": "patas_com_cascos",
+    "nome": "Patas com Cascos",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 169
+    },
+    "descricao": "Você possui fortes patas munidas de cascos resistentes. Você pode rolar +1d6 quando fizer testes de correr, saltar ou desviar de obstáculos, e seu Deslocamento é aumentado em 1. Além disso, se fizer ataques desarmados com seus cascos, seu dano será Força +2/Contusão.",
+    "especial": null
+  },
+  {
+    "id": "pele_de_pedra",
+    "nome": "Pele de Pedra",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 170
+    },
+    "descricao": "Sua pele é composta por uma grossa camada de rocha que o tornam extremamente resistente e pesado. Você recebe +1d6 em todos os seus testes para evitar ser derrubado, resistir à doenças e venenos, empurrar ou segurar peso, mas é considerado Inapto em testes de escalar, saltar, correr ou se mover com agilidade. Você precisa de um turno inteiro para se levantar, ao invés de uma ação de movimento e para você é impossível nadar. Você não possui o sentido do tato, mas não sente desconforto por ambientes com condições climáticas hostis. Seus ataques desarmados causam dano igual a Força +2/Contusão e você tem Defesa +4 (Esse bônus de Defesa conta como Armadura). Além disso, sua pele tem as características de uma armadura Pesada, mas a conformação única da sua pele o impede de usar armaduras, e qualquer roupa precisa ser feita sob medida para você, custando duas vezes mais que o normal.",
+    "especial": null
+  },
+  {
+    "id": "perceber_logro",
+    "nome": "Perceber Logro",
+    "categoria": "geral",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 170
+    },
+    "descricao": "Você é capaz de perceber criaturas tentando lograr sua percepção. Sempre que você estiver diante de uma criatura disfarçada, transformada ou sob algum efeito ilusório – incluindo qualquer forma de invisibilidade – você é capaz de perceber o efeito. Embora não seja capaz de perceber a real natureza da criatura, você percebe que ela está sob um efeito (e sabe se o efeito é uma característica, técnica ou magia) e não é afetado por ele.",
+    "especial": null
+  },
+  {
+    "id": "pernas_vulpinas",
+    "nome": "Pernas Vulpinas",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 170
+    },
+    "descricao": "Suas pernas são flexíveis e próprias para saltar, terminando em pés pequenos dotados de solas acolchoadas que permitem que você ande quase sem fazer sons. 170 Você rola +1d6 quando fizer testes para saltar, correr e se mover em silêncio. Além disso, você tem Deslocamento +1 e a distância dos seus saltos é aumentada em 1 metro.",
+    "especial": null
+  },
+  {
+    "id": "pestilento",
+    "nome": "Pestilento",
+    "categoria": "geral",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 170
+    },
+    "descricao": "Você entrou em contato com vários tipos de agentes infecciosos, e não só se tornou imune à maioria como também se tornou um vetor para muitos deles. Você é imune a todas as doenças e venenos não-mágicos, e recebe +1d6 para resistir aos efeitos de doenças e venenos mágicos. Além disso, qualquer alvo que seja mordido por você deve passar em um teste de Força (dificuldade igual à sua Determinação) ou ficará sob o efeito de uma doença natural – perdendo 1 Ponto de Vida por hora e sem poder recuperar Pontos de Vida nem Pontos de Mana por nenhum meio até que a doença seja removida. O dano da sua mordida é igual à Força/Corte.",
+    "especial": null
+  },
+  {
+    "id": "placas_quitinosas",
+    "nome": "Placas Quitinosas",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 170
+    },
+    "descricao": "Você possui placas quitinosas que oferecem proteção contra ataques. Você recebe um bônus de Defesa de Armadura dependendo do seu Tamanho (o que dita a grossura das placas do seu exoesqueleto). +1 se você for Miúdo, +2 se você for Pequeno, +4 se você for médio, +6 se você for Grande e +8 se você for Colossal. Essas placas também oferecem Redução de Dano igual à metade de seu bônus de Defesa (arredondado para cima).",
+    "especial": null
+  },
+  {
+    "id": "prender_respiracao",
+    "nome": "Prender Respiração",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 170
+    },
+    "descricao": "Você é capaz de prender a respiração por até três vezes sua Força em minutos antes de começar a sufocar, e só perde 10 Pontos de Vida a cada minuto quando começa a sufocar. Apêndice I",
+    "especial": null
+  },
+  {
+    "id": "quadrupede",
+    "nome": "Quadrúpede",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 171
+    },
+    "descricao": "Você usa quatro membros para locomoção por terra. Sua carga é calculada como se você tivesse duas vezes a sua Força normal, seu deslocamento é calculado como se você tivesse duas vezes sua Agilidade normal e você pode rolar +1d6 quando fizer testes de correr, saltar ou evitar ser derrubado e empurrado/puxado.",
+    "especial": null
+  },
+  {
+    "id": "rasante",
+    "nome": "Rasante",
+    "categoria": "técnica",
+    "acao": "acao",
+    "mana": 5,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 171
+    },
+    "descricao": "Você consegue realizar ataques velozes e sair do alcance dos seus alvos antes que eles consigam contra-atacar. Enquanto estiver voando, como uma ação de rodada completa você pode se mover seu Deslocamento normal de voo e desferir um único ataque normal (sem Habilidades de Ação) em qualquer ponto deste deslocamento.",
+    "especial": null
+  },
+  {
+    "id": "rasgar",
+    "nome": "Rasgar",
+    "categoria": "técnica",
+    "acao": "reacao",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 171
+    },
+    "descricao": "Se você atingir um alvo com pelo menos 2 ataques corporais que causem dano por Corte ou Perfuração no mesmo turno, seu próximo ataque no mesmo turno que cause dano por Corte ou Perfuração será considerado um sucesso decisivo automático.",
+    "especial": null
+  },
+  {
+    "id": "regeneracao",
+    "nome": "Regeneração",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 10,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 171
+    },
+    "descricao": "No início do seu turno, recupere todo o dano que tiver sofrido e remova todos os efeitos de Sangramento que o estiverem afetando desde o seu último turno. Essa Habilidade não tem efeito se você estiver Por um Fio ou Exausto.",
+    "especial": null
+  },
+  {
+    "id": "resistente_a_perfuracao",
+    "nome": "Resistente A Perfuracao",
+    "categoria": "não_informada",
+    "acao": "não_informada",
+    "mana": 0,
+    "requisitos": [],
+    "descricao": null,
+    "especial": null,
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 102,
+      "observacao": "A habilidade é citada na ficha, mas sua descrição integral não foi localizada no Apêndice I."
+    }
+  },
+  {
+    "id": "resistir_a_geleiras",
+    "nome": "Resistir A Geleiras",
+    "categoria": "não_informada",
+    "acao": "não_informada",
+    "mana": 0,
+    "requisitos": [],
+    "descricao": null,
+    "especial": null,
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 77,
+      "observacao": "A habilidade é citada na ficha, mas sua descrição integral não foi localizada no Apêndice I."
+    }
+  },
+  {
+    "id": "resistir_as_geleiras",
+    "nome": "Resistir às Geleiras",
+    "categoria": "geral",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 171
+    },
+    "descricao": "Você não sofre efeitos negativos de climas frios, é imune a efeitos de Enregelamento e é automaticamente bem sucedido em testes para não escorregar em superfícies de gelo (natural ou mágico). Finalmente, você recebe +1d6 em testes para se esconder, mover em silêncio ou se camuflar em regiões Árticas e Tundras.",
+    "especial": null
+  },
+  {
+    "id": "resistencia_ao_fogo",
+    "nome": "Resistência ao Fogo",
+    "categoria": "geral",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 171
+    },
+    "descricao": "Você recebe a Condição Resistente ao Fogo (Guia Básico página 173).",
+    "especial": null
+  },
+  {
+    "id": "resistencia_ao_frio",
+    "nome": "Resistência ao Frio",
+    "categoria": "geral",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 171
+    },
+    "descricao": "Você recebe a Condição Resistente ao Frio (Guia Básico página 173).",
+    "especial": null
+  },
+  {
+    "id": "resistencia_a_contusao",
+    "nome": "Resistência à Contusão",
+    "categoria": "geral",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 171
+    },
+    "descricao": "Você recebe a Condição Resistente à Contusão (Guia Básico página 173).",
+    "especial": null
+  },
+  {
+    "id": "resistencia_a_corte",
+    "nome": "Resistência à Corte",
+    "categoria": "geral",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 171
+    },
+    "descricao": "Você recebe a Condição Resistente à Corte (Guia Básico página 173).",
+    "especial": null
+  },
+  {
+    "id": "resistencia_a_perfuracao",
+    "nome": "Resistência à Perfuração",
+    "categoria": "geral",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 171
+    },
+    "descricao": "Você recebe a Condição Resistente à Perfuração (Guia Básico página 173).",
+    "especial": null
+  },
+  {
+    "id": "ripostar",
+    "nome": "Ripostar",
+    "categoria": "técnica",
+    "acao": "reacao",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 171
+    },
+    "descricao": "Você está sempre atento à guarda do oponente, esperando uma falha para contra-atacar de modo oportuno. Sempre que um oponente fizer um ataque contra você e errar, você pode imediatamente fazer um ataque normal contra aquele oponente. 171",
+    "especial": null
+  },
+  {
+    "id": "rugido_do_alfa",
+    "nome": "Rugido do Alfa",
+    "categoria": "técnica",
+    "acao": "acao",
+    "mana": 40,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 172
+    },
+    "descricao": "Você emite um rugido capaz de abalar até o mais valente dos predadores. Todos os oponentes que estiverem a até 10 metros à sua frente que tiverem uma Determinação menor do que a sua ficam Paralisados por 1 turno. Um oponente só é afetado por esta habilidade uma vez por combate. Este é um efeito de Medo.",
+    "especial": null
+  },
+  {
+    "id": "rugido_do_predador",
+    "nome": "Rugido do Predador",
+    "categoria": "técnica",
+    "acao": "acao",
+    "mana": 25,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 172
+    },
+    "descricao": "Você emite um rugido amedrontador. Todos os oponentes que estiverem a até 10 metros à sua frente que tiverem uma Determinação menor do que a sua ficam Amedrontados por 1 turno. Um oponente só é afetado por esta habilidade uma vez por combate. Este é um efeito de Medo.",
+    "especial": null
+  },
+  {
+    "id": "semiaquatico",
+    "nome": "Semiaquático",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 172
+    },
+    "descricao": "Você pode respirar indefinidamente embaixo d’água, mas só consegue respirar na superfície durante uma quantidade de horas igual ao dobro de sua Força. Depois disso você começa a sufocar, perdendo 1 Ponto de Vida por minuto até poder ficar submerso por pelo menos um minuto. Além disso, você é sempre bem sucedido em testes de movimentação sob a água (ou recebe +1d6 caso precise fazer testes). No entanto, em terra seu deslocamento é reduzido à metade e você não pode correr nem realizar ataques de Investida.",
+    "especial": null
+  },
+  {
+    "id": "sentidos_apurados",
+    "nome": "Sentidos Apurados",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 172
+    },
+    "descricao": "Você possui sentidos treinados e extremamente apurados e aprendeu a confiar instintivamente no que eles captam. Você recebe +2 em todos os testes de para perceber, procurar, observar, ouvir ou usar seus cinco sentidos e também em testes de Iniciativa. 172",
+    "especial": null
+  },
+  {
+    "id": "serpentiforme",
+    "nome": "Serpentiforme",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 172
+    },
+    "descricao": "Você possui um corpo alongado, flexível e musculoso terminado em uma cauda muscular. Você recebe +2 em seus testes de correr, nadar, escalar e agarrar. Sua cauda pode ser usada para segurar objetos (mas não utilizá-los em combate) ou realizar ataques desarmados (Força/Contusão). Você não pode ser derrubado, mas não é capaz de cavalgar ou impulsionar seu corpo todo acima do chão.",
+    "especial": null
+  },
+  {
+    "id": "sete_vidas",
+    "nome": "Sete Vidas",
+    "categoria": "geral",
+    "acao": "reacao",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 172
+    },
+    "descricao": "Você consegue sobreviver a situações que seriam fatais para outras criaturas. Quando algum efeito fosse matá-lo de alguma forma – incluindo efeitos de petrificação, morte automática, falha em um teste de Vontade quando está Por um Fio – você imediatamente recupera todos os Pontos de Vida e perde permanentemente 1 ponto em seu Atributo mais alto – um Atributo pode ser reduzido até um mínimo de 2 dessa forma. Se tiver 2 ou mais Atributos no mesmo valor, você escolhe qual Atributo irá reduzir.",
+    "especial": null
+  },
+  {
+    "id": "sexto_sentido",
+    "nome": "Sexto Sentido",
+    "categoria": "geral",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 172
+    },
+    "descricao": "Você é capaz de sentir a presença de qualquer criatura dos tipos Amaldiçoado, Deva, Infernal, Espírito ou Morto- -vivo que se aproxime de você a uma distância em metros igual à sua Determinação.",
+    "especial": null
+  },
+  {
+    "id": "silenciosa",
+    "nome": "Silenciosa",
+    "categoria": "não_informada",
+    "acao": "não_informada",
+    "mana": 0,
+    "requisitos": [],
+    "descricao": null,
+    "especial": null,
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 49,
+      "observacao": "A habilidade é citada na ficha, mas sua descrição integral não foi localizada no Apêndice I."
+    }
+  },
+  {
+    "id": "silencioso",
+    "nome": "Silencioso",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 172
+    },
+    "descricao": "Você é completamente silencioso e nunca emite sons a menos que deseje. Sempre que precisar realizar um teste para se mover em silêncio, considere que teve um sucesso decisivo no teste. Além disso, sempre que fizer um teste contra um alvo desprevenido, você pode mudar o resultado de um dado para 6 – esse efeito não pode ser utilizado em resultados 1 nos dados. Apêndice I",
+    "especial": null
+  },
+  {
+    "id": "teia",
+    "nome": "Teia",
+    "categoria": "característica",
+    "acao": "acao",
+    "mana": 15,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 173
+    },
+    "descricao": "Você dispara uma poderosa teia que se emaranha ao redor de um alvo que esteja à uma distância máxima igual à sua Força em metros. Um alvo atingido pela teia fica com Deslocamento reduzido à 0, todos os seus testes têm um redutor de -2 e o alvo não pode utilizar Habilidades de Ação ou Reação enquanto estiver preso dessa forma. Para se soltar é preciso passar em um teste de Força (Dificuldade igual à sua Determinação) como uma ação de rodada completa. A teia se desfaz se sofrer dano igual à 5/ Fogo ou 20/Corte (no total). Finalmente, se um alvo estiver preso na sua teia, você pode realizar um teste de amarrar que, se for bem-sucedido, ao invés de causar dano, deixa o alvo preso em um casulo. Um alvo dentro de um casulo é considerado Indefeso. Um casulo se desfaz se sofrer dano igual à 5/Fogo ou 20/Corte (no total).",
+    "especial": null
+  },
+  {
+    "id": "velocista",
+    "nome": "Velocista",
+    "categoria": "característica",
+    "acao": "reacao",
+    "mana": 10,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 173
+    },
+    "descricao": "Você é capaz de correr muito mais do que seria possível para outras criaturas. Quando fizer uma ação de rodada completa para correr ou fazer um encontrão, adicione sua Agilidade ao seu Deslocamento (além dos multiplicadores normais por correr ou realizar um encontrão). Além disso, quando ativar este efeito como parte de uma ação de Encontrão, adicione +3 de dano (além de quaisquer outros modificadores pelo encontrão).",
+    "especial": "Você não pode utilizar esta Habilidade se estiver utilizando uma armadura com a característica Pesada."
+  },
+  {
+    "id": "ver_o_invisivel",
+    "nome": "Ver o Invisível",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 173
+    },
+    "descricao": "Você possui um sentido além da simples visão (geralmente um tato tão refinado que consegue perceber as variações de pressão do ar ou a vibração da terra) que lhe permite perceber todos os seus arredores com perfeição. Além de não precisar de iluminação para se localizar em um ambiente, você não é enganado por ilusões de nenhuma espécie, e consegue até mesmo perceber criaturas invisíveis. No entanto, criaturas intangíveis ou cores não são perceptíveis por esse sentido – mas seus outros sentidos podem perceber essas criaturas normalmente.",
+    "especial": null
+  },
+  {
+    "id": "vibracao_sonifera",
+    "nome": "Vibração Sonífera",
+    "categoria": "característica",
+    "acao": "acao",
+    "mana": 20,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 173
+    },
+    "descricao": "Todas as criaturas capazes de ouvir sons que estiverem a até 30 metros de você ficam sonolentas e devem vencer um teste de Vontade (Dificuldade igual à sua Determinação) para não caírem num sono profundo. Elas acordam depois de uma hora ou se sofrerem qualquer dano. Este é um efeito mental.",
+    "especial": null
+  },
+  {
+    "id": "visao_no_escuro",
+    "nome": "Visao No Escuro",
+    "categoria": "não_informada",
+    "acao": "não_informada",
+    "mana": 0,
+    "requisitos": [],
+    "descricao": null,
+    "especial": null,
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 119,
+      "observacao": "A habilidade é citada na ficha, mas sua descrição integral não foi localizada no Apêndice I."
+    }
+  },
+  {
+    "id": "visao_olfativa",
+    "nome": "Visao Olfativa",
+    "categoria": "não_informada",
+    "acao": "não_informada",
+    "mana": 0,
+    "requisitos": [],
+    "descricao": null,
+    "especial": null,
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 130,
+      "observacao": "A habilidade é citada na ficha, mas sua descrição integral não foi localizada no Apêndice I."
+    }
+  },
+  {
+    "id": "visao_noturna",
+    "nome": "Visão Noturna",
+    "categoria": "característica",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 173
+    },
+    "descricao": "Você está acostumado a locais escuros e pode enxergar na completa escuridão.",
+    "especial": null
+  },
+  {
+    "id": "vulnerabilidade_a_corte",
+    "nome": "Vulnerabilidade a Corte",
+    "categoria": "geral",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 173
+    },
+    "descricao": "Você recebe a Condição Vulnerável a Corte (Guia Básico, página 173).",
+    "especial": null
+  },
+  {
+    "id": "vulnerabilidade_ao_fogo",
+    "nome": "Vulnerabilidade ao Fogo",
+    "categoria": "geral",
+    "acao": "suporte",
+    "mana": 0,
+    "requisitos": [],
+    "fonte": {
+      "livro": "Codex Monstrorum",
+      "pagina": 173
+    },
+    "descricao": "Você recebe a Condição Vulnerável ao Fogo (Guia Básico, página 173). 173",
+    "especial": null
+  }
+]
